@@ -8,4 +8,4 @@ git add .
 git commit -m $commitMessage
 
 # Pousse les modifications vers le référentiel distant
-git push origin master
+git push
